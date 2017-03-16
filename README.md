@@ -1,4 +1,3 @@
-
 ## Soft Skills
 - Market research
 - Project Estimation
@@ -30,15 +29,17 @@
 - Developing Graphics/Gesture library
 
 ## Technology Stack
-- Protocols, Interfaces & Peripherals: SPI, I2C, USB, RS232, MODBUS, CAN, RFID protocols, TCP, UDP, SNTP, MDB, cctalk, EVA-DTS, ADC, DAC, DMA, PWM, 1-Wire, GPIO, CAN, LCD, Timers, DDR 2/3, NAND, Motor, Sensors, FPGA, EEPROM, PMIC, PHY, OLED, Zigbee, WirelessHART
+- **Protocols, Interfaces & Peripherals:** SPI, I2C, USB, RS232, MODBUS, CAN, RFID protocols, TCP, UDP, SNTP, MDB, cctalk, EVA-DTS, ADC, DAC, DMA, PWM, 1-Wire, GPIO, CAN, LCD, Timers, DDR 2/3, NAND, Motor, Sensors, FPGA, EEPROM, PMIC, PHY, OLED, Zigbee, WirelessHART
 
-- Hardware Platforms: PIC16/18/24/32, MSP430, Atmega & Stellaris, OMAP 3530, x86, Quark, Davinci, i.MX6 Solo 
+- **Hardware Platforms:** PIC16/18/24/32, MSP430, Atmega & Stellaris, OMAP 3530, x86, Quark, Davinci, i.MX6 Solo 
 
-- Programming Languages: C, C++, Assembly, Bash Shell, Python
+- **Programming Languages:** C, C++, Assembly, Bash Shell, Python, LaTeX
 
-- OS: uCOS, FreeRTOS, Linux, Windows, QNX, WindRiver, Proprietary RTOS
+- **OS:** uCOS, FreeRTOS, Linux, Windows, QNX, WindRiver, Proprietary RTOS
 
-- Development Tools: Eclipse, IAR Workbench, MPLab, Hitech C, Keil, QT, SVN, CVS, TASM, Visual studio, CCD, ORCAD P-Spice, Eagle Layout Editor, Verdi, nWave
+- **Development Tools:** Eclipse, IAR Workbench, MPLab, Hitech C, Keil uVision, QT, Visual studio, CCD, ORCAD P-Spice, Eagle Layout Editor, Verdi, nWave
+
+- **Version Control System:** SVN, CVS, git
 
 ## Verticals
 - Industrial Product & Automation
