@@ -23,23 +23,29 @@
 -	Designing & Optimization of Firmware/Software architecture for different embedded Products 
 -	OS less Firmware Applications Development
 - Device drivers
-- Board Support Packages
+- Board Support Package Porting
 -	Algorithm development,
 - Designing Complex data structures
 - Developing Graphics/Gesture library
 
 ## Technology Stack
-- **Protocols, Interfaces & Peripherals:** SPI, I2C, USB, RS232, MODBUS, CAN, RFID protocols, TCP, UDP, SNTP, MDB, cctalk, EVA-DTS, ADC, DAC, DMA, PWM, 1-Wire, GPIO, CAN, LCD, Timers, DDR 2/3, NAND, Motor, Sensors, FPGA, EEPROM, PMIC, PHY, OLED, Zigbee, WirelessHART
+- **Interfaces & Peripherals:** LCD, Timers, DDR 2/3, NAND/NOR Flash memory, Motor, Sensors, FPGA, EEPROM, PMIC, PHY, OLED
 
-- **Hardware Platforms:** PIC16/18/24/32, MSP430, Atmega & Stellaris, OMAP 3530, x86, Quark, Davinci, i.MX6 Solo 
+- **Network Protocols:** TCP, UDP, SNTP, FTP, DNS, DHCP, SNMP, RADIUS, WirelessHART, cctalk
 
-- **Programming Languages:** C, C++, Assembly, Bash Shell, Python, LaTeX
+- **Bus Protocols:** SPI, I2C, USB, RS232, MODBUS, CAN, ADC, DAC, DMA, PWM, 1-Wire, GPIO, Zigbee, Bluetooth
+
+- **Hardware Platforms:** PIC16/18/24/32, MSP430, Atmel AVR, TI TM4C123, TI OMAP 3530, Intel Quark, Davinci, i.MX6 Solo, ESP8266  NodeMCU
+
+- **Programming Languages:** C, C++, Assembly, Bash Shell, Python, LaTeX, MATLAB, Octave
+
+- **Libraries/Frameworks:** Zigbee TI Zstack, OpenCV, OpenWRT
 
 - **OS:** uCOS, FreeRTOS, Linux, Windows, QNX, WindRiver, Proprietary RTOS
 
-- **Development Tools:** Eclipse, IAR Workbench, MPLab, Hitech C, Keil uVision, QT, Visual studio, CCD, ORCAD P-Spice, Eagle Layout Editor, Verdi, nWave
+- **Development Tools:** Eclipse, IAR Workbench, MPLab, Hitech C, Keil uVision, QT, Visual studio, CCD, ORCAD P-Spice, Eagle Layout Editor, Verdi, nWave, Atmel Studio
 
-- **Version Control System:** SVN, CVS, git
+- **Version Control System:** svn, cvs, git
 
 ## Verticals
 - Industrial Product & Automation
