@@ -31,15 +31,19 @@
 ## Technology Stack
 - **Interfaces & Peripherals:** LCD, Timers, DDR 2/3, NAND/NOR Flash memory, Motor, Sensors, FPGA, EEPROM, PMIC, PHY, OLED
 
-- **Network Protocols:** TCP, UDP, SNTP, FTP, DNS, DHCP, SNMP, RADIUS, WirelessHART, cctalk
+- **Network Protocols:** TCP, UDP, SNTP, FTP, DNS, DHCP, SNMP, RADIUS, WirelessHART, cctalk, SMS (GSM3.40)
 
-- **Bus Protocols:** SPI, I2C, USB, RS232, MODBUS, CAN, ADC, DAC, DMA, PWM, 1-Wire, GPIO, Zigbee, Bluetooth
+- **Bus Protocols:** SPI, I2C, USB, RS232, MODBUS, CAN, ADC, DAC, DMA, PWM, 1-Wire, GPIO, Zigbee, Bluetooth, NMEA0183, NMEA2k, RFID protocols
+
+- **Peripheral devices:** RTC, Printer, GPS, Camera, Light Sensor, LCD Back light, EEPROM, Temperature Sensor, Light Sensor, Stepper motor, Graphical & alphanumeric LCD, MMC/SD, 3G/GSM/GPRS module
 
 - **Hardware Platforms:** PIC16/18/24/32, MSP430, Atmel AVR, TI TM4C123, TI OMAP 3530, Intel Quark, Davinci, i.MX6 Solo, ESP8266  NodeMCU
 
 - **Programming Languages:** C, C++, Assembly, Bash Shell, Python, LaTeX, MATLAB, Octave, Fox Pro
 
-- **Libraries/Frameworks:** Zigbee TI Zstack, OpenCV, OpenWRT
+- **Linux Programming:** Multithreaded programming, IPC, TCP/IP sockets, Makefile, Message Queues, Shared Memory, Mutex, Semaphores, Kernel threads, POSIX threads, System Calls, Event driven mechanisms: event manager daemon, device manager daemon, control manager daemon
+
+- **Libraries/Frameworks:** Zigbee TI Zstack, OpenCV, OpenWRT, Bluez Stack
 
 - **OS:** uCOS, FreeRTOS, Linux, Windows, QNX, WindRiver, ThreadX
 
