@@ -37,15 +37,27 @@
 
 - **Hardware Platforms:** PIC16/18/24/32, MSP430, Atmel AVR, TI TM4C123, TI OMAP 3530, Intel Quark, Davinci, i.MX6 Solo, ESP8266  NodeMCU
 
-- **Programming Languages:** C, C++, Assembly, Bash Shell, Python, LaTeX, MATLAB, Octave
+- **Programming Languages:** C, C++, Assembly, Bash Shell, Python, LaTeX, MATLAB, Octave, Fox Pro
 
 - **Libraries/Frameworks:** Zigbee TI Zstack, OpenCV, OpenWRT
 
-- **OS:** uCOS, FreeRTOS, Linux, Windows, QNX, WindRiver, Proprietary RTOS
+- **OS:** uCOS, FreeRTOS, Linux, Windows, QNX, WindRiver, ThreadX
 
 - **Development Tools:** Eclipse, IAR Workbench, MPLab, Hitech C, Keil uVision, QT, Visual studio, CCD, ORCAD P-Spice, Eagle Layout Editor, Verdi, nWave, Atmel Studio
 
-- **Version Control System:** svn, cvs, git
+- **Debugging Tools:** Trace32, gdb, QXDM
+
+- **Bug Tracking Tools:** JIRA, Bugzilla, Prism, Visual Intercept, FIDO
+
+- **Version Control System:** svn, cvs, git, Perforce P4V
+
+- **Software Engineering Methods:** SCRUM, ISO9001, Software V-Model
+
+- **Code Review Tools:** Code collaborator
+
+- **Static Code Analyzers:** Klocwork, Coverity
+
+- **Code Browsers:** Source Insight, Slick Edit
 
 ## Verticals
 - Industrial Product & Automation
