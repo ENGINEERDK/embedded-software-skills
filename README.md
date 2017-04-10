@@ -49,7 +49,9 @@
 
 - **Development Tools:** Eclipse, IAR Workbench, MPLab, Hitech C, Keil uVision, QT, Visual studio, CCD, ORCAD P-Spice, Eagle Layout Editor, Verdi, nWave, Atmel Studio
 
-- **Debugging Tools:** Trace32, gdb, QXDM
+- **Debugging Tools:** Trace32, gdb, QXDM, Lauterbach, XCode
+
+- **USB Debug Tools:** LeCroy USB Protocol Analyzer, MQP PET, USBLyzer, USBCV
 
 - **Bug Tracking Tools:** JIRA, Bugzilla, Prism, Visual Intercept, FIDO
 
