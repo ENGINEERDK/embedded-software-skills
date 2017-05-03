@@ -18,26 +18,27 @@
 - Logical & Analytic Approach
 
 ## Technical Skills
-- Board Bring-Up/Debugging
-- Testing
+- Board Bring Up/Debugging
+- Kernel optimization
+- Signal and interrupt handling,
 -	Designing & Optimization of Firmware/Software architecture for different embedded Products 
 -	OS less Firmware Applications Development
-- Device drivers
+- Device driver development
 - Board Support Package Porting
--	Algorithm development,
+-	Algorithm development
 - Designing Complex data structures
 - Developing Graphics/Gesture library
 
 ## Technology Stack
 - **Interfaces & Peripherals:** LCD, Timers, DDR 2/3, NAND/NOR Flash memory, Motor, Sensors, FPGA, EEPROM, PMIC, PHY, OLED
 
-- **Network Protocols:** TCP, UDP, SNTP, FTP, DNS, DHCP, SNMP, RADIUS, WirelessHART, cctalk, SMS (GSM3.40)
+- **Network Protocols:** TCP, UDP, SNTP, FTP, DNS, DHCP, SNMP, RADIUS, WirelessHART, cctalk, SMS (GSM3.40), IPSec VPN, PPPoE
 
 - **Bus Protocols:** SPI, I2C, USB, RS232, MODBUS, CAN, ADC, DAC, DMA, PWM, 1-Wire, GPIO, Zigbee, Bluetooth, NMEA0183, NMEA2k, RFID protocols
 
 - **Peripheral devices:** RTC, Printer, GPS, Camera, Light Sensor, LCD Back light, EEPROM, Temperature Sensor, Light Sensor, Stepper motor, Graphical & alphanumeric LCD, MMC/SD, 3G/GSM/GPRS module
 
-- **Hardware Platforms:** PIC16/18/24/32, MSP430, Atmel AVR, TI TM4C123, TI OMAP 3530, Intel Quark, Davinci, i.MX6 Solo, ESP8266  NodeMCU
+- **Hardware Platforms:** PIC16/18/24/32, MSP430, Atmel AVR, TI TM4C123, TI OMAP 3530, Intel Quark, Davinci, i.MX6 Solo, ESP8266  NodeMCU, STM32F103, Samsung S3C2412, Cirrus EP9301, Austria Microsystem AS3527, VIA processor
 
 - **Programming Languages:** C, C++, Assembly, Bash Shell, Python, LaTeX, MATLAB, Octave, Fox Pro
 
@@ -45,7 +46,7 @@
 
 - **Libraries/Frameworks:** Zigbee TI Zstack, OpenCV, OpenWRT, Bluez Stack
 
-- **OS:** uCOS, FreeRTOS, Linux, Windows, QNX, WindRiver, ThreadX
+- **OS:** uCOS, FreeRTOS, Linux, Windows, QNX, WindRiver, ThreadX, eCos
 
 - **Development Tools:** Eclipse, IAR Workbench, MPLab, Hitech C, Keil uVision, QT, Visual studio, CCD, ORCAD P-Spice, Eagle Layout Editor, Verdi, nWave, Atmel Studio
 
