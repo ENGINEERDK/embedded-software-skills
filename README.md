@@ -19,7 +19,7 @@
 
 ## Technical Skills
 - Board Bring Up/Debugging
-- Kernel optimization
+- Linux kernel compilation, optimization & booting sequence
 - Signal and interrupt handling,
 -	Designing & Optimization of Firmware/Software architecture for different embedded Products 
 -	OS less Firmware Applications Development
@@ -28,6 +28,9 @@
 -	Algorithm development
 - Designing Complex data structures
 - Developing Graphics/Gesture library
+- Uboot configuration
+- File-systems (UBI-FS/JFFS2/YAFFS2)
+- Linux startup sequencing (buildroot/ArchLinux)
 
 ## Technology Stack
 - **Interfaces & Peripherals:** LCD, Timers, DDR 2/3, NAND/NOR Flash memory, Motor, Sensors, FPGA, EEPROM, PMIC, PHY, OLED
@@ -77,6 +80,6 @@
 
 ## Technical Requirements
 - Expert knowledge and hands-on with writing business logic on embedded environment in C, C++, Python using test-driven methodology on RTOS and non-RTOS platforms.
-- Working knowledge on board-bring up, uboot configuration, linux kernel compilation & booting sequence, file-systems (UBI-FS/JFFS2/YAFFS2), linux startup sequencing -buildroot/archLinux. (Archlinux and Buildroot experience will be an added advantage)
+- Working knowledge on
 - Exhibit problem-solving and analytical thinking abilities. Should be system-level thinker.
 - Able to learn and apply new state-of-the-art tools and techniques and thereby showing experience in quick prototyping methods followed by structured implementation.
