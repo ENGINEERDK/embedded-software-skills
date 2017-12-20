@@ -36,6 +36,8 @@
 
 - **Bus Protocols:** SPI, I2C, USB, RS232, MODBUS, CAN, ADC, DAC, DMA, PWM, 1-Wire, GPIO, Zigbee, Bluetooth, NMEA0183, NMEA2k, RFID protocols
 
+- **Bluetooth:** BT stack, BT Air trace tools, HFP, A2DP, SPP, AVRCP
+
 - **Peripheral devices:** RTC, Printer, GPS, Camera, Light Sensor, LCD Back light, EEPROM, Temperature Sensor, Light Sensor, Stepper motor, Graphical & alphanumeric LCD, MMC/SD, 3G/GSM/GPRS module
 
 - **Hardware Platforms:** PIC16/18/24/32, MSP430, Atmel AVR, TI TM4C123, TI OMAP 3530, Intel Quark, Davinci, i.MX6 Solo, ESP8266  NodeMCU, STM32F103, Samsung S3C2412, Cirrus EP9301, Austria Microsystem AS3527, VIA processor
@@ -72,3 +74,9 @@
 - Medical equipment
 - Consumer Electronics
 - Instrumentation & Retail solutions
+
+## Technical Requirements
+- Expert knowledge and hands-on with writing business logic on embedded environment in C, C++, Python using test-driven methodology on RTOS and non-RTOS platforms.
+- Working knowledge on board-bring up, uboot configuration, linux kernel compilation & booting sequence, file-systems (UBI-FS/JFFS2/YAFFS2), linux startup sequencing -buildroot/archLinux. (Archlinux and Buildroot experience will be an added advantage)
+- Exhibit problem-solving and analytical thinking abilities. Should be system-level thinker.
+- Able to learn and apply new state-of-the-art tools and techniques and thereby showing experience in quick prototyping methods followed by structured implementation.
