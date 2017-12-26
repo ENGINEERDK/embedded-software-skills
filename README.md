@@ -80,6 +80,5 @@
 
 ## Technical Requirements
 - Expert knowledge and hands-on with writing business logic on embedded environment in C, C++, Python using test-driven methodology on RTOS and non-RTOS platforms.
-- Working knowledge on
 - Exhibit problem-solving and analytical thinking abilities. Should be system-level thinker.
 - Able to learn and apply new state-of-the-art tools and techniques and thereby showing experience in quick prototyping methods followed by structured implementation.
